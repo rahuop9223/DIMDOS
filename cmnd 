@@ -1,0 +1,25 @@
+pkg update && pkg upgrade -y
+pkg install python git clang -y
+pip install pyTelegramBotAPI pytz
+git clone repo.....
+ls
+cd repo name
+gcc PRIMEXARMY.c -o PRIMEXARMY -pthread
+chmod +x PRIMEXARMY
+pkg install screen -y
+screen -S bot
+python PRIMEXARMY.py
+
+pkg install screen -y
+screen -S primebot
+python PRIMEXARMY.py
+
+binary Create 
+gcc PRIMEXARMY.c -o PRIMEXARMY -pthread
+ls
+chmod +x PRIMEXARMY
+./PRIMEXARMY
+gcc PRIMEXARMY.c -o PRIMEXARMY -pthread && chmod +x PRIMEXARMY
+ls -l
+termux-setup-storage
+cp PRIMEXARMY /sdcard/Download/
